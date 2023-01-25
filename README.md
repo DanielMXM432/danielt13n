@@ -1,2 +1,2 @@
 # danielt13n
-este es un repositorio del modulo 2 del prepcourse de henrry
+este es un repositorio de como crear y clonar  desde git hub y gardarlo en la computadora
